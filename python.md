@@ -26,11 +26,11 @@ travel = 3.3
 - type()
 - print(type(last_name))
 
-- interact with users by taking user data in - input()
-print("Good Morning, Please Enter your first Name")
-first_name = input() # took user input & stored in the car called name
-last_name = input("Now please input your last name: ")
-print("Hello dear " + first_name + " " + last_name)
-DOB = input("what is your date of birth in format ddmmyy:")
-course_name = input("what is the course you taking")
-UK_resident = input("are you a UK resident? YES or NO")
+- interact with users by taking user data in - input() <br/>
+print("Good Morning, Please Enter your first Name")<br/>
+first_name = input() # took user input & stored in the car called name<br/>
+last_name = input("Now please input your last name: ")<br/>
+print("Hello dear " + first_name + " " + last_name)<br/>
+DOB = input("what is your date of birth in format ddmmyy:")<br/>
+course_name = input("what is the course you taking")<br/>
+UK_resident = input("are you a UK resident? YES or NO")<br/>
