@@ -42,7 +42,7 @@
 - install pycharm community by going in the link https://www.jetbrains.com/pycharm/download/#section=windows 
 
 <p float="left">
-  <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" width="300" />
-  <img src="https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png" width="575" /> 
+  <img src="https://miro.medium.com/max/1200/1*6Dhu1H4t028lOGbaZuyRCw.png" width="250" />
+  <img src="https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png" width="500" /> 
 </p>
 
