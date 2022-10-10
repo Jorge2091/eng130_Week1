@@ -11,10 +11,10 @@
 - Travel = 15.4 - float
 - gross_salary = salary + travel
 
-first_name = "Jorge"
-last_name = "Reyes"
-salary = 50
-travel = 3.3
+first_name = "Jorge" <br/>
+last_name = "Reyes"<br/>
+salary = 50<br/>
+travel = 3.3<br/>
 
 - print("Jorge")
 - print(first_name)
